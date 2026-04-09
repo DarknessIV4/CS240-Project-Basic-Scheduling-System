@@ -1,33 +1,19 @@
-# **<p align="middle">Data Structure Project - CS240</p>**
+<div align="center">
 
+# 📚 Data Structure Project (CS240)
+*A collaborative project exploring fundamental data structures.*
 
-<p> ‌</p>
+<br>
 
+### 🤝 Project Contributors
 
-- Source Code Made By: **[Mohamad Radwan.](https://github.com/DarknessIV4)**
+| Role | Contributor | GitHub Profile |
+| :--- | :--- | :--- |
+| **Source Code Developer** | Mohamad Radwan | [@DarknessIV4](https://github.com/DarknessIV4) |
+| **Review & Error Testing** | Abdullah Tafran | [@AbdullahT200](https://github.com/AbdullahT200) |
+| **Project Documentation** | Naif Alhujaili | [@Naifhani](https://github.com/Naifhani) |
 
-- Reviewed and Error tested By: **[Abdullah Tafran.](https://github.com/AbdullahT200)**
-
-- Word Document Made By: **[Naif Alhujaili.](https://github.com/Naifhani)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
 
 
