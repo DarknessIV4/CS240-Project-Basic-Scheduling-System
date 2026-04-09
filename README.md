@@ -4,7 +4,7 @@
 <p> ‌</p>
 
 
-- Source Code Made By: **[Mohamad Radwan.](ttps://github.com/DarknessIV4)**
+- Source Code Made By: **[Mohamad Radwan.](https://github.com/DarknessIV4)**
 
 - Code Reviewed By: **[Abdullah Tafran.](https://github.com/DarknessIV4)**
 
