@@ -6,6 +6,6 @@
 
 - Source Code Made By: **[Mohamad Radwan.](https://github.com/DarknessIV4)**
 
-- Reviewed and Error tested By: **[Abdullah Tafran.](https://github.com/DarknessIV4)**
+- Reviewed and Error tested By: **[Abdullah Tafran.](https://github.com/AbdullahT200)**
 
 - Word Document Made By: **[Naif Alhujaili.](https://github.com/Naifhani)**
