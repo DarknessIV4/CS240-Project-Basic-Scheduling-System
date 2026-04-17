@@ -18,6 +18,7 @@ class Task implements Comparable<Task> {
         this.arrivalSequence = arrivalSequence;
     }
 
+    
     @Override
     public int compareTo(Task other) {
         // 1st Level Sort: Priority (Lower number = Higher Priority, 1 is first)
@@ -45,6 +46,8 @@ public class Main {
     static String RESET = "\u001B[0m";
     static String RED = "\u001B[31m";
     static String YELLOW = "\u001B[33m";
+
+    
 
     // Solution 1: Scheduling by arrival order (Ignores Priority)
     public static void scheduleByArrival(List<Task> tasks) {
@@ -84,6 +87,11 @@ public class Main {
         int priority; // Temporary variable to hold priority input
         int sequenceCounter = 1; // Tracks overall arrival order
         boolean isMenuOpen = true; // control the menu loop
+
+        taskList.add(new Task("Mohamad Radwan", 2, sequenceCounter++));
+        taskList.add(new Task("Abdullah Tfran", 2, sequenceCounter++));
+        taskList.add(new Task("Naif Alhujaili", 2, sequenceCounter++));
+        taskList.add(new Task("Dr. Samer Atawneh", 1, sequenceCounter++));
 
         System.out.println(GREEN + "=== Welcome to my Task Scheduling System ===" + RESET);
 
