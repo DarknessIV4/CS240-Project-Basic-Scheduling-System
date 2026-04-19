@@ -41,7 +41,7 @@ class Task implements Comparable<Task> {
 // The Main Class
 public class Main {
 
-    // Console colors declared at the class level
+    // Console colors
     static String GREEN = "\u001B[32m";
     static String RESET = "\u001B[0m";
     static String RED = "\u001B[31m";
